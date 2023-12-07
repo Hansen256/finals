@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+}
+
+img.sandra{
+    border-radius: 50px;
+    padding: 0;
+    margin:0
+}
+.container{
+    display: flex;
+    width: 70%;
+    margin-left: 0;
+    
+}
+.intro{
+    margin: 0;
+    justify-content: space-around;
+}
+.inventory{
+    justify-content: space-around;
+
+}
+.opinion{
+
+}
